@@ -1,0 +1,3 @@
+0 cracks 
+1 potholes 
+2 normal
